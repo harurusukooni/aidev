@@ -1,1 +1,17 @@
 .venv
+# ===== dataset =====
+Lesson09_ML-Practice/aclImdb/
+Lesson09_ML-Practice/easy_ham/
+Lesson09_ML-Practice/hard_ham/
+Lesson09_ML-Practice/spam/
+
+# ===== dataset archives =====
+Lesson09_ML-Practice/*.tar.gz
+Lesson09_ML-Practice/*.tar.bz2
+
+# ===== python =====
+__pycache__/
+*.pyc
+
+# ===== jupyter =====
+.ipynb_checkpoints/
